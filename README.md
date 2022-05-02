@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I am currently a working student at Magazino GmbH in Perception & Grasping
+- 📖 I'm currently studying robotics at TUM
+- 💬 Love to chat about the future of deep learning applications and possible AI integrations into robotics
+- 📫 How to reach me: https://linkedin.com/xabieririzar
+
 
 <!--
 **xabirizar9/xabirizar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
