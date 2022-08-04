@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I am currently a working student at Magazino GmbH in Perception & Grasping
-- 📖 I'm currently studying robotics at TUM
+- 🔭 I'm currently a working student at Magazino GmbH in Perception & Grasping
+- 📖 I'm studying robotics at TUM
 - 💬 Love to chat about the future of deep learning applications and possible AI integrations into robotics
 - 📫 How to reach me: https://linkedin.com/xabieririzar
 
