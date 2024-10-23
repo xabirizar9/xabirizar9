@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I'm currently a Researcher at the Harvard SEAS Ability Lab
-- 📖 Finishing my Master in Robotics and AI at TUM
+- 🔭 Researching at interface of Robotics and Deep Learning at the Harvard SEAS Ability Lab
+- 📖 Graduated in Robotics and AI at TUM
 - 💬 Love to chat about the future of deep learning applications and possible AI integrations into robotics
 - 📫 How to reach me: https://linkedin.com/xabieririzar
 
